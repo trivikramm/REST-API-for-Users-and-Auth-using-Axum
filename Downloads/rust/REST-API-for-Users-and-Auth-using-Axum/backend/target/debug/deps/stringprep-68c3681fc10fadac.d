@@ -1,0 +1,9 @@
+C:\Users\trivi\Downloads\rust\rust\backend\target\debug\deps\stringprep-68c3681fc10fadac.d: C:\Users\trivi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\stringprep-0.1.5\src\lib.rs C:\Users\trivi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\stringprep-0.1.5\src\rfc3454.rs C:\Users\trivi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\stringprep-0.1.5\src\tables.rs
+
+C:\Users\trivi\Downloads\rust\rust\backend\target\debug\deps\libstringprep-68c3681fc10fadac.rlib: C:\Users\trivi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\stringprep-0.1.5\src\lib.rs C:\Users\trivi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\stringprep-0.1.5\src\rfc3454.rs C:\Users\trivi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\stringprep-0.1.5\src\tables.rs
+
+C:\Users\trivi\Downloads\rust\rust\backend\target\debug\deps\libstringprep-68c3681fc10fadac.rmeta: C:\Users\trivi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\stringprep-0.1.5\src\lib.rs C:\Users\trivi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\stringprep-0.1.5\src\rfc3454.rs C:\Users\trivi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\stringprep-0.1.5\src\tables.rs
+
+C:\Users\trivi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\stringprep-0.1.5\src\lib.rs:
+C:\Users\trivi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\stringprep-0.1.5\src\rfc3454.rs:
+C:\Users\trivi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\stringprep-0.1.5\src\tables.rs:
